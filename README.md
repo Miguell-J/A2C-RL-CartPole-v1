@@ -14,7 +14,6 @@ Before running the code, ensure you have the following dependencies installed:
 You can install these dependencies using the following:
 
 ```bash
-Copy code
 pip install gymnasium stable-baselines3
 ```
 
